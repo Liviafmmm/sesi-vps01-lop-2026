@@ -42,5 +42,5 @@ void main(){
     getch();
 }
 ```
-![Fluxograma].(https://github.com/Liviafmmm/sesi-vps01-lop-2026/blob/main/Atendimento.png?raw=true)
+![Fluxograma](./https://github.com/Liviafmmm/sesi-vps01-lop-2026/blob/main/Atendimento.png?raw=true)
  
